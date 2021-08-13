@@ -1,0 +1,10 @@
+{
+    "type":"record",
+    "name":"MySchema",
+    "version":1,
+    "namespace":"com.rminhas.generated.v1",
+    "fields": [
+        {"name":"name","type":"string", "default": ""},
+        {"name":"age","type":"int", "default": 0}
+    ]
+}
